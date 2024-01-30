@@ -34,7 +34,7 @@ const App: React.FC = () => {
         <h1 className="text-3xl">D3 Scatter Plot Chart </h1>
       </header>
       <main className="container mx-auto mt-8 flex-grow">
-        <ScatterPlot />
+           <ScatterPlot />
       </main>
     </div>
   );
